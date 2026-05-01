@@ -1,0 +1,16 @@
+{
+  "name": "Cabot Water Damage Help",
+  "short_name": "Cabot Water",
+  "description": "Water Damage Restoration in Cabot, Arkansas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#25483f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
